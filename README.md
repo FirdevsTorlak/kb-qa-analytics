@@ -46,7 +46,6 @@ kb-qa-analytics/
 ├─ scripts/
 │  ├─ dev.ps1             # Windows helpers (up/down/reseed/dump/restore)
 │  └─ dev.sh              # macOS/Linux helpers
-├─ .github/workflows/postgres-smoke.yml  # CI smoke test
 ├─ .env.example
 ├─ .gitignore
 ├─ LICENSE
