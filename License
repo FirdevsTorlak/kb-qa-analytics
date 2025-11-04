@@ -1,0 +1,9 @@
+
+---
+
+## `requirements.txt`
+
+```txt
+numpy==2.1.1
+scipy==1.13.1
+matplotlib==3.9.0

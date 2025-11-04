@@ -1,0 +1,24 @@
+# Force LF for all shell scripts (e.g., .sh files)
+*.sh text eol=lf
+
+# Force LF for all SQL files
+*.sql text eol=lf
+
+# Force LF for all Dockerfiles
+Dockerfile text eol=lf
+
+# Force LF for all markdown files
+*.md text eol=lf
+
+# Force LF for all YAML files
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Force LF for all Python files
+*.py text eol=lf
+
+# Force LF for all JSON files
+*.json text eol=lf
+
+# Force LF for all text files (non-binary)
+*.txt text eol=lf
